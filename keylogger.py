@@ -15,7 +15,5 @@ def keyPressed(key):
 if __name__ == "__main__":
     # The "listener" variable contains the keys pressed by the user
     listener = keyboard.Listener(on_press=keyPressed)
-
-    # Here we start fetching the keys pressed by the user
     listener.start()
     input()
