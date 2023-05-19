@@ -3,7 +3,7 @@ from tkinter import filedialog
 
 root = Tk()
 root.geometry("300x250")
-root.title("Encytion and Decryption")
+root.title("Encrytion and Decryption")
 root.configure(bg='bisque2')
 
 def encrypt_decrypt_image():
