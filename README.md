@@ -8,3 +8,5 @@ Welcome to the Cybersecurity Projects folder! This curated collection features a
     
   * Image encryption and decryption<br>
     *Image encryption and decryption is a process of securing digital images by converting them into a scrambled format that can only be deciphered by authorized recipients.*
+    
+More in the near future...
