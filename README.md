@@ -8,5 +8,8 @@ Welcome to the Cybersecurity Projects folder! This curated collection features a
     
   * Image encryption and decryption<br>
     *Image encryption and decryption is a process of securing digital images by converting them into a scrambled format that can only be deciphered by authorized recipients.*
+  
+  * Text Encryption and Decryption with Caesar Cipher
+    *The Caesar cipher is a simple, substitution cipher where each letter in the text is replaced with another letter, shifted by a fixed number of positions in the alphabet. The program allows users to input text for encryption or encrypted text for decryption, and choose the number of positions by which the alphabet should be shifted. With this tool, users can protect sensitive information from unauthorized access or decipher encrypted messages while maintaining communication privacy. "Encryption and Decryption with Caesar Cipher" provides a straightforward and user-friendly interface.*
     
 More in the near future...
